@@ -13,8 +13,7 @@
 
   <!-- Visitor Counter -->
   <div align="center" style="margin: 20px 0;">
-    <b>✦ Visitor Count ✦</b><br>
-    <img src="https://profile-counter.glitch.me/prashsainidev/count.svg" alt="Visitor Count"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=prashsainidev.prashsainidev" alt="Visitor Count"/>
   </div>
 
   <p>
@@ -114,22 +113,7 @@
     </a>
   </p>
 
-  <!-- Divider for Top Contributed Repo -->
-  <!-- <hr style="margin: 40px 0;"/> -->
-  <!-- Top Contributed Repo Heading -->
-  <h2 align="center">🔝 Top Contributed Repo</h2>
-  <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=prashsainidev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-  </p>
 
-  <!-- Divider for GitHub Trophies -->
-  <!-- <hr style="margin: 40px 0;"/> -->
-  <!-- GitHub Trophies Heading -->
-  <h2 align="center">🏆 GitHub Trophies</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=prashsainidev&theme=tokyonight&row=1" alt="GitHub Trophies" />
-  </p>
-</div>
 
 <!-- Random Dev Quote Section (Aligned with Other Sections) -->
 <div align="center" style="margin: 20px 0;">
